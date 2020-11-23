@@ -11,7 +11,7 @@ multipliers**.
 
 `ProximalGD_example.py`: Reconstructing a sparse signal by **proximal gradient method**.
 
-`SteepestGD_example.py`: Solving a simplex unconstrained minimization problem by **steepest gradient descent method**. Using the **secant method** to do exact line search.
+`SteepestGD_example.py`: Solving a simple unconstrained minimization problem by **steepest gradient descent method**. Using the **secant method** to do exact line search.
 
 `TrustRegion+CG+BFGS_example.py`: Finding the minimizer of Rosenbrock function by **trust region method**. Using **Steihaug conjugate gradient method** finding the approximated solution of the quadratic subproblem involved in trust region method. Using the BFGS update in **BFGS method** to update B_k.
 
