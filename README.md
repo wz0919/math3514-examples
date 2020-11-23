@@ -15,4 +15,4 @@ multipliers**.
 
 `TrustRegion+CG+BFGS_example.py`: Finding the minimizer of Rosenbrock function by **trust region method**. Using **Steihaug conjugate gradient method** finding the approximated solution of the quadratic subproblem involved in trust region method. Using the BFGS update in **BFGS method** to update B_k.
 
-`Two-phase_Simplex.py`: An implementation of **two-phase simplex method** which I used to check my manually calculated results of LP.
+`Two-phase_Simplex.py`: My implementation of **two-phase simplex method** which I used to check my manually calculated results of LP.
